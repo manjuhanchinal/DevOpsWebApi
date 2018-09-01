@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee>
+    <id>100001</id>
+    <name>Becker Paul</name>
+    <designation>System Manager</designation>
+  </Employee>
+  <Employee>
+    <id>100002</id>
+    <name>Kotraih Hiremath</name>
+    <designation>Analyst and Designer</designation>
+  </Employee>
+  <Employee>
+    <id>100003</id>
+    <name>Raju Abhishek</name>
+    <designation>Architect</designation>
+  </Employee>
+  <Employee>
+    <id>100004</id>
+    <name>Ts Rangashetty</name>
+    <designation>Manager</designation>
+  </Employee>
+  <Employee>
+    <id>100005</id>
+    <name>Hanchinal Manjunath</name>
+    <designation>Developer</designation>
+  </Employee>
+</Employees>
