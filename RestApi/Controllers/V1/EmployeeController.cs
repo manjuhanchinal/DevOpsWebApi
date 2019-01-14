@@ -1,10 +1,11 @@
 ﻿using RestApiDemo.Models;
+using RestApiDemo.Routes;
 using RestApiDemo.Services;
 using System.Web.Http;
 
-namespace WebApplication1.Controllers
+namespace WebApplication1.Controllers.V1
 {
-    [RoutePrefix("employee")]
+    [ApiVersion1RoutePrefix("employee")]
     public class EmployeeApiController : ApiController
     {
         public readonly EmployeeService employeeServiceClient ;
